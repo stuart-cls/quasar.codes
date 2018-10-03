@@ -1,0 +1,20 @@
+{{ define "main"}}
+
+{{ partial "title.html" . }}
+
+<div id="visage" class="flex flex-wrap items-top">
+{{ range sort .Pages .Params.weight}}
+    <div class="mw6 w-50-l ph3 pt4">
+        <div class="screenshot">
+            <a href="{{.Params.image}}">
+                <img class="screenshot-image" alt="{{.Title }}" src="{{ .Params.image}}">
+            </a>
+        </div>
+        <p class="screenshot-title pv0">{{ .Title }}</p>
+    </div>
+    {{end}}
+</div>
+
+</script>
+{{ end }}
+

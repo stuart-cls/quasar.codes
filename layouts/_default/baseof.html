@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "head.html" . }}
+    <body>
+
+    {{ partial "header.html" . }}
+
+    {{ if not (isset .Params "blank") }}
+    <div class="mw8 center mv4 mv5-l ph3">
+    {{ end }}
+
+    {{ block "main" .}}
+    {{end}}
+
+    {{ if not (isset .Params "blank") }}
+    </div>
+    {{ end }}
+
+
+    {{ partial "footer.html" . }}
+    </body>
+</html>

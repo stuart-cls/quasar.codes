@@ -1,0 +1,9 @@
+{{ define "main"}}
+
+{{if not .IsHome }}
+<h1 class="f2 f1-l fw3 white-90 mb0 lh-title">{{ .Title }}</h1>
+{{ end }}
+
+{{ .Content }}
+
+{{ end }}
