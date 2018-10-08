@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://quasar.codes"
 languageCode = "en-us"
 title = "Quasar"
 paginate = 5 #frontpage pagination
@@ -6,9 +6,3 @@ paginate = 5 #frontpage pagination
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
 
-[menu]
-  [[menu.main]]
-    identifier = "features"
-    name = "Features"
-    url = "/#features"
-    weight = -130
