@@ -1,5 +1,5 @@
 +++
-title = "Friendly Scientific Data Analysis"
+title = "Free your data"
 url = "/"
 blank = true
 +++
