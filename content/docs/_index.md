@@ -4,8 +4,8 @@ url = "/docs"
 listing = true
 +++
 
-To efficiently use Quasar, familirize yourself both with general Orange components and with
-Quasar specific componenets.
+To efficiently use Quasar, familiarize yourself both with general Orange components and with
+components specific to Quasar:
 
 Orange
 ======
