@@ -4,9 +4,27 @@ url = "/download/"
 listing = true
 +++
 
-We will prepare the installers shortly. To use Quasar in the meantime, install it manually:
+Windows
+=======
 
-1. Download [Orange](https://orange.biolab.si/download/) for your operating system and install it.
-2. Install the Spectroscopy add-on, as shown in this [tutorial video](https://www.youtube.com/watch?v=D4RBey-b2VA).
+[Quasar-0.1.0-Miniconda-x86_64.exe](https://orange.biolab.si/download/files/quasar/Quasar-0.1.0-Miniconda-x86_64.exe) - an
+installer that can be used without administrative privileges (64 bit).
 
-You are all set! To get started, see the [documentation](/docs/).
+macOS
+=====
+
+[Quasar-0.1.0.dmg](https://orange.biolab.si/download/files/quasar/Quasar-0.1.0.dmg) - an universal
+bundle; copy it into your Applications folder.
+
+Other platforms
+===============
+
+On other platforms, such as Linux, you will need a fairly recent python3 installation.
+We highly recommend that you create a python virtual environment first. 
+There, install Quasar with pip:
+
+    pip install quasar
+    
+The above command will install all dependencies. Then, run Quasar with:
+
+    python -m quasar
