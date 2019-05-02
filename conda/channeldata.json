@@ -1,0 +1,38 @@
+{
+  "channeldata_version": 1,
+  "packages": {
+    "opusfc": {
+      "reference_package": "win-64/opusfc-1.2.0-py37h8c2d366_0.tar.bz2",
+      "subdirs": [
+        "win-64"
+      ],
+      "version": "1.2.0"
+    },
+    "orange-spectroscopy": {
+      "home": "https://github.com/quasars",
+      "license": "GPL-3",
+      "reference_package": "noarch/orange-spectroscopy-0.4.3-py_0.tar.bz2",
+      "source_git_url": "/home/marko/orange-spectroscopy",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Orange-Spectroscopy",
+      "version": "0.4.3"
+    },
+    "quasar": {
+      "home": "https://quasar.codes/",
+      "license": "GPL-3",
+      "reference_package": "noarch/quasar-0.3.0-py_0.tar.bz2",
+      "source_git_url": "/home/marko/quasar",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Quasar",
+      "version": "0.3.0"
+    }
+  },
+  "subdirs": [
+    "noarch",
+    "win-64"
+  ]
+}
