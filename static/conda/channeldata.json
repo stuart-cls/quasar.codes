@@ -22,13 +22,13 @@
     "quasar": {
       "home": "https://quasar.codes/",
       "license": "GPL-3",
-      "reference_package": "noarch/quasar-0.3.0-py_0.tar.bz2",
+      "reference_package": "noarch/quasar-0.3.1-py_0.tar.bz2",
       "source_git_url": "/home/marko/quasar",
       "subdirs": [
         "noarch"
       ],
       "summary": "Quasar",
-      "version": "0.3.0"
+      "version": "0.3.1"
     }
   },
   "subdirs": [
