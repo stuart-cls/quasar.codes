@@ -1,6 +1,16 @@
 {
   "channeldata_version": 1,
   "packages": {
+    "extranormal3": {
+      "license": "GPL-3+",
+      "reference_package": "noarch/extranormal3-0.0.3-py_0.tar.bz2",
+      "source_git_url": "/Users/marko/extranormal3-0.0.3",
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Quick normalization of a bunch of Quick-EXAFS spectra",
+      "version": "0.0.3"
+    },
     "opusfc": {
       "reference_package": "win-64/opusfc-1.2.0-py37h8c2d366_0.tar.bz2",
       "subdirs": [

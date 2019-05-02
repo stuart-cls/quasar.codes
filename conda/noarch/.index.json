@@ -1,4 +1,25 @@
 {
+  "extranormal3-0.0.3-py_0.tar.bz2": {
+    "arch": null,
+    "build": "py_0",
+    "build_number": 0,
+    "depends": [
+      "numpy",
+      "python"
+    ],
+    "license": "GPL-3+",
+    "license_family": "GPL",
+    "md5": "1b383d2e924b0e4a64b58d03ea470ba5",
+    "mtime": 1556805432.731182,
+    "name": "extranormal3",
+    "noarch": "python",
+    "platform": null,
+    "sha256": "2ab953512132e4b1d25773d3a14407c6c9ab823b2e7ccb5c82e1be3a9fa97c7e",
+    "size": 11396,
+    "subdir": "noarch",
+    "timestamp": 1556805431401,
+    "version": "0.0.3"
+  },
   "orange-spectroscopy-0.4.1-py_0.tar.bz2": {
     "arch": null,
     "build": "py_0",
