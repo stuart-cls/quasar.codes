@@ -21,13 +21,13 @@
     "orange-spectroscopy": {
       "home": "https://github.com/quasars",
       "license": "GPL-3",
-      "reference_package": "noarch/orange-spectroscopy-0.4.3-py_0.tar.bz2",
+      "reference_package": "noarch/orange-spectroscopy-0.4.4-py_0.tar.bz2",
       "source_git_url": "/home/marko/orange-spectroscopy",
       "subdirs": [
         "noarch"
       ],
       "summary": "Orange-Spectroscopy",
-      "version": "0.4.3"
+      "version": "0.4.4"
     },
     "quasar": {
       "home": "https://quasar.codes/",
