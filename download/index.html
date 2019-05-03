@@ -110,6 +110,8 @@ scipy 1.1.0, scikit-learn 0.20.3.</p>
 
 <h1 id="other-platforms">Other platforms</h1>
 
+<h2 id="with-pip">With pip</h2>
+
 <p>On other platforms, such as Linux, you will need a fairly recent python3 installation.
 We highly recommend that you create a python virtual environment first.
 There, install Quasar with pip:</p>
@@ -123,6 +125,30 @@ There, install Quasar with pip:</p>
 </code></pre>
 
 <p>This will install Orange &gt;= 3.20.1 and Orange-Spectroscopy &gt;= 0.4.4.</p>
+
+<p>To open Brucker files, also install opusFC (only available for some platforms):</p>
+
+<pre><code>pip install opusFC
+</code></pre>
+
+<h2 id="with-conda">With conda</h2>
+
+<p>If you are using python provided by Anaconda distribution, you are almost ready to go.
+And two new channels</p>
+
+<pre><code>conda config --append channels conda-forge
+conda config --append channels https://quasar.codes/conda/
+</code></pre>
+
+<p>and install the quasar package:</p>
+
+<pre><code>conda install quasar
+</code></pre>
+
+<p>To open Brucker files, also install opusFC (only available for some platforms):</p>
+
+<pre><code>conda install opusFC
+</code></pre>
 
 
 
