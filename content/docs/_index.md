@@ -14,5 +14,5 @@ Orange
 
 Spectroscopy
 ============
-- [Widget documentaion](https://orange-spectroscopy.readthedocs.io)
+- [Widget documentation](https://orange-spectroscopy.readthedocs.io)
 - [Video tutorials for Orange Spectroscopy](https://www.youtube.com/playlist?list=PLmNPvQr9Tf-bPWjDJvJBPZJ6us_KTAD5T)
