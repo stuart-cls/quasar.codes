@@ -148,5 +148,27 @@
     "subdir": "noarch",
     "timestamp": 1556803804936,
     "version": "0.3.1"
+  },
+  "quasar-0.3.2-py_0.tar.bz2": {
+    "arch": null,
+    "build": "py_0",
+    "build_number": 0,
+    "depends": [
+      "orange-spectroscopy >=0.4.4",
+      "orange3 >=3.20.1",
+      "python"
+    ],
+    "license": "GPL-3",
+    "license_family": "GPL",
+    "md5": "16aa794554bf40635f9391f43a651f78",
+    "mtime": 1556876633.5575593,
+    "name": "quasar",
+    "noarch": "python",
+    "platform": null,
+    "sha256": "df15b727004687df4021da2cc3b778b8bde3535d20d6ebc8885ee178619b4d47",
+    "size": 86622,
+    "subdir": "noarch",
+    "timestamp": 1556876417249,
+    "version": "0.3.2"
   }
 }
