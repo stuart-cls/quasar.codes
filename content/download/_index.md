@@ -7,7 +7,7 @@ listing = true
 Windows
 =======
 
-[Quasar-0.3.2-Miniconda-x86_64.exe](https://orange.biolab.si/download/files/quasar/Quasar-0.3.2-Miniconda-x86_64.exe) - an
+[Quasar-0.3.2-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-0.3.2-Miniconda-x86_64.exe) - an
 installer that can be used without administrative privileges (64 bit).
 
 The Windows Quasar 0.3.2 package includes python 3.6.8,
@@ -17,7 +17,7 @@ scipy 1.1.0, scikit-learn 0.20.3.
 macOS
 =====
 
-[Quasar-0.3.2.dmg](https://orange.biolab.si/download/files/quasar/Quasar-0.3.2.dmg) - an universal
+[Quasar-0.3.2.dmg](https://download.biolab.si/download/files/quasar/Quasar-0.3.2.dmg) - an universal
 bundle; copy it into your Applications folder.
 
 The macOS Quasar 0.3.2 package includes python 3.6.6,
