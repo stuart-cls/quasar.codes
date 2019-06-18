@@ -1,0 +1,3 @@
+{{ range $.Site.Data.publications.article }}
+<p>{{.author}}, <a href="https://doi.org/{{.doi}}"><em>{{.title}}</em></a>, {{.journal}} {{.year}}</p>
+{{ end }}
