@@ -7,22 +7,22 @@ listing = true
 Windows
 =======
 
-[Quasar-0.4.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-0.4.0-Miniconda-x86_64.exe) - an
+[Quasar-0.5.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-0.5.0-Miniconda-x86_64.exe) - an
 installer that can be used without administrative privileges (64 bit).
 
-The Windows Quasar 0.4.0 package includes python 3.6.8,
-Orange 3.21.0, Orange-Spectroscopy 0.4.4, numpy 1.15.4,
-scipy 1.2.1, scikit-learn 0.20.3.
+The Windows Quasar 0.5.0 package includes python 3.6.8,
+Orange 3.22.0, Orange-Spectroscopy 0.4.5, numpy 1.16.4,
+scipy 1.2.1, scikit-learn 0.21.2.
 
 macOS
 =====
 
-[Quasar-0.4.0.dmg](https://download.biolab.si/download/files/quasar/Quasar-0.4.0.dmg) - a universal
+[Quasar-0.5.0.dmg](https://download.biolab.si/download/files/quasar/Quasar-0.5.0.dmg) - a universal
 bundle; copy it into your Applications folder.
 
-The macOS Quasar 0.4.0 package includes python 3.6.6,
-Orange 3.21.0, Orange-Spectroscopy 0.4.4, numpy 1.15.4,
-scipy 1.2.1, scikit-learn 0.20.3.
+The macOS Quasar 0.5.0 package includes python 3.6.6,
+Orange 3.22.0, Orange-Spectroscopy 0.4.5, numpy 1.16.4,
+scipy 1.2.2, scikit-learn 0.21.2.
 
 Other platforms
 ===============
@@ -39,8 +39,6 @@ There, install Quasar with pip:
 The above command will install all dependencies. Then, run Quasar with:
 
     python -m quasar
-
-This will install Orange >= 3.21.0 and Orange-Spectroscopy >= 0.4.4.
 
 To open Bruker OPUS files, also install opusFC (only available for some platforms):
 
@@ -62,3 +60,8 @@ and install the quasar package:
 To open Bruker OPUS files, also install opusFC (only available for some platforms):
 
     conda install opusFC
+
+Version archive
+===============
+
+If needed, you can download previous versions from our [download archive](https://download.biolab.si/download/files/quasar/).
