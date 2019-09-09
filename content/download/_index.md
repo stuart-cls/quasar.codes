@@ -7,22 +7,22 @@ listing = true
 Windows
 =======
 
-[Quasar-0.5.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-0.5.0-Miniconda-x86_64.exe) - an
+[Quasar-0.6.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-0.6.0-Miniconda-x86_64.exe) - an
 installer that can be used without administrative privileges (64 bit).
 
-The Windows Quasar 0.5.0 package includes python 3.6.8,
-Orange 3.22.0, Orange-Spectroscopy 0.4.5, numpy 1.16.4,
+The package includes python 3.6.9,
+Orange 3.23.0, Orange-Spectroscopy 0.4.6, numpy 1.16.4,
 scipy 1.2.1, scikit-learn 0.21.2.
 
 macOS
 =====
 
-[Quasar-0.5.0.dmg](https://download.biolab.si/download/files/quasar/Quasar-0.5.0.dmg) - a universal
+[Quasar-0.6.0.dmg](https://download.biolab.si/download/files/quasar/Quasar-0.6.0.dmg) - a universal
 bundle; copy it into your Applications folder.
 
-The macOS Quasar 0.5.0 package includes python 3.6.6,
-Orange 3.22.0, Orange-Spectroscopy 0.4.5, numpy 1.16.4,
-scipy 1.2.2, scikit-learn 0.21.2.
+The package includes python 3.6.6,
+Orange 3.23.0, Orange-Spectroscopy 0.4.6, numpy 1.16.5,
+scipy 1.2.2, scikit-learn 0.21.3.
 
 Other platforms
 ===============
@@ -36,7 +36,11 @@ There, install Quasar with pip:
 
     pip install quasar
     
-The above command will install all dependencies. Then, run Quasar with:
+The above command will install all dependencies except PyQt. Install it with
+
+    pip install PyQt5
+
+Then, run Quasar with:
 
     python -m quasar
 
