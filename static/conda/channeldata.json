@@ -77,11 +77,12 @@
         "noarch",
         "noarch",
         "noarch",
+        "noarch",
         "noarch"
       ],
       "summary": "Quasar",
       "text_prefix": true,
-      "version": "0.5.0"
+      "version": "0.6.0"
     }
   },
   "subdirs": [
