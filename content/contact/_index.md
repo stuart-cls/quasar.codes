@@ -1,43 +1,33 @@
 +++
-title = "Contact"
+title = "Contact us!"
 url = "/contact/"
 +++
 
 
-Issues, questions (public)
-==========================
+With issues and questions
+=========================
 
-Contact us with questions or problem reports.
-The linked contact form
-will submit an issue to the [GitHub page](https://github.com/quasars/quasar.codes/issues).
+The form below will submit an issue to the [GitHub page](https://github.com/quasars/quasar.codes/issues).
 Take note that your submissions are public.
 
 <a class="f6 no-underline grow dib v-mid bg-qred white-80 ba ph3 pv2 mb3 br2"
-href="https://gitreports.com/issue/Quasars/quasar.codes">Public Contact</a>
+href="https://gitreports.com/issue/Quasars/quasar.codes">Submit Issue</a>
 
 
-Collaboration enquiries (private)
-=================================
+With pay-per-feature requests
+=============================
 
-Do you find Quasar useful and would like to contribute to the project? We are
-always happy to form new connections.
+We strive to implement new features in Quasar, but our resources are limited. If you
+require a feature urgently and are willing to finance it, we are ready to allocate extra
+programming resources. 
 
-Also, contact us if your are missing a specific component (visualization, file reader, 
-preprocessing method, or similar) and are willing to commit resources towards
-its development.
+As a recognition of your financial contribution, the newly implemented feature will 
+be closed source (only for your use) for 6 months and will be open sourced after. Furthermore,
+you will be referenced both in the source code and on the Quasar website as a contributor.
+This way we can grow faster for the whole community!
+
+Please send us a short description of your problem and we will get back to you with a quote.
 
 <a class="f6 no-underline grow dib v-mid bg-qred white-80 ba ph3 pv2 mb3 br2"
-href="/contact-private/">Contact Form</a>
+href="/contact-private/">Request Quote</a>
 
-
-Development
-===========
-
-Our [public repositories](https://github.com/quasars/) are hosted on github. Feel
-free to report issues or open pull requests. The main repositories are:
-
-- [Quasar](https://github.com/quasars/quasar) - bringing together Orange 
-  and the Spectroscopy add-on
-- [Orange spectroscopy](https://github.com/quasars/orange-spectroscopy) - Orange 
-  components for spectroscopy
-- [Orange](https://github.com/biolab/orange3) - the backbone of Quasar
