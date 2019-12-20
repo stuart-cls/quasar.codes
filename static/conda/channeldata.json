@@ -56,11 +56,13 @@
         "noarch",
         "noarch",
         "noarch",
+        "noarch",
+        "noarch",
         "noarch"
       ],
       "summary": "Orange-Spectroscopy",
       "text_prefix": false,
-      "version": "0.4.7"
+      "version": "0.4.9"
     },
     "quasar": {
       "activate.d": false,
