@@ -7,12 +7,12 @@ listing = true
 Windows
 =======
 
-[Quasar-0.6.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-0.6.0-Miniconda-x86_64.exe) - an
+[Quasar-0.7.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-0.7.0-Miniconda-x86_64.exe) - an
 installer that can be used without administrative privileges (64 bit).
 
 The package includes python 3.6.9,
-Orange 3.23.0, Orange-Spectroscopy 0.4.6, numpy 1.16.4,
-scipy 1.2.1, scikit-learn 0.21.2.
+Orange 3.24.0, Orange-Spectroscopy 0.4.9, numpy 1.16.5,
+scipy 1.2.1, scikit-learn 0.22.
 
 macOS
 =====
