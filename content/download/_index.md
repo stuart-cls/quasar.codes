@@ -17,12 +17,13 @@ scipy 1.2.1, scikit-learn 0.22.
 macOS
 =====
 
-[Quasar-0.6.0.dmg](https://download.biolab.si/download/files/quasar/Quasar-0.6.0.dmg) - a universal
+[Quasar-0.7.0.dmg](https://download.biolab.si/download/files/quasar/Quasar-0.7.0.dmg) - a universal
 bundle; copy it into your Applications folder.
 
-The package includes python 3.6.6,
-Orange 3.23.0, Orange-Spectroscopy 0.4.6, numpy 1.16.5,
-scipy 1.2.2, scikit-learn 0.21.3.
+The package includes python 3.6.8,
+Orange 3.24.0, Orange-Spectroscopy 0.4.9, numpy 1.16.6,
+scipy 1.2.2, scikit-learn 0.22.1.
+
 
 Other platforms
 ===============
