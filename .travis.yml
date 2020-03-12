@@ -12,6 +12,7 @@ install:
 script:
     - hugo
     - echo 'quasar.codes' > public/CNAME
+    - touch public/.nojekyll
 
 deploy:
   provider: pages
