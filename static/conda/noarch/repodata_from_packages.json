@@ -279,6 +279,32 @@
       "timestamp": 1587972271709,
       "version": "0.5.1"
     },
+    "orange-spectroscopy-0.5.2-py_0.tar.bz2": {
+      "build": "py_0",
+      "build_number": 0,
+      "depends": [
+        "anyqt >=0.0.6",
+        "colorcet",
+        "extranormal3 >=0.0.3",
+        "h5py",
+        "orange3 >=3.24",
+        "pyqtgraph >=0.10.0",
+        "python",
+        "scipy >=0.14.0",
+        "serverfiles >=0.2",
+        "spectral >=0.18"
+      ],
+      "license": "GPL-3",
+      "license_family": "GPL",
+      "md5": "e72fdacfd4a01616e6b5084b8a495956",
+      "name": "orange-spectroscopy",
+      "noarch": "python",
+      "sha256": "bc457056e313269959302a455fa29b6110d98ffe8e7e659bc3f9e676b76c9839",
+      "size": 2701786,
+      "subdir": "noarch",
+      "timestamp": 1587982627107,
+      "version": "0.5.2"
+    },
     "quasar-0.3.0-py_0.tar.bz2": {
       "build": "py_0",
       "build_number": 0,
@@ -430,6 +456,25 @@
       "subdir": "noarch",
       "timestamp": 1579268227232,
       "version": "0.7.1"
+    },
+    "quasar-0.8.0-py_0.tar.bz2": {
+      "build": "py_0",
+      "build_number": 0,
+      "depends": [
+        "orange-spectroscopy >=0.5.2",
+        "orange3 >=3.25.0",
+        "python"
+      ],
+      "license": "GPL-3",
+      "license_family": "GPL",
+      "md5": "949530ab8ce14b754d0a84ed8b829dc4",
+      "name": "quasar",
+      "noarch": "python",
+      "sha256": "9eea78a8b392b458d2ae7862fd3d0596f5bb8302d371a953929660b5d5555c87",
+      "size": 85589,
+      "subdir": "noarch",
+      "timestamp": 1587983168969,
+      "version": "0.8.0"
     }
   },
   "packages.conda": {},
