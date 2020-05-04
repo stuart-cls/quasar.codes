@@ -7,11 +7,25 @@ url = "/contact/"
 With issues and questions
 =========================
 
-The form below will submit an issue to the [GitHub page](https://github.com/quasars/quasar.codes/issues).
-Take note that your submissions are public.
-
-<a class="f6 no-underline grow dib v-mid bg-qred white-80 ba ph3 pv2 mb3 br2"
-href="https://gitreports.com/issue/Quasars/quasar.codes">Submit Issue</a>
+<form id="contact-form" method="post" action="https://formspree.io/quasar.answer@gmail.com">
+   <div class="controls">
+     <div>
+       <label for="name">Your name</label>
+       <input type="text" name="name" id="name" required="required" class="db border-box w-100 measure ba pa2 br2 mb2">
+     </div>
+     <div>
+       <label for="email">Your email</label>
+       <input type="email" name="email" id="email" required="required" class="db border-box w-100 measure ba pa2 br2 mb2">
+     </div>
+     <div>
+       <label for="message">Your message</label>
+       <textarea rows="10" name="message" id="message" required="required" class="db border-box w-100 measure ba pa2 br2 mb2"></textarea>
+     </div>
+     <div>
+       <input type="submit" value="Send" class="f6 no-underline grow dib v-mid bg-qred white-80 ba ph3 pv2 mb3 mt2 br2">
+     </div>
+   </div>
+</form>
 
 
 With pay-per-feature requests
