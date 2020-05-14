@@ -1,4 +1,4 @@
-# scorange-hugo
+# Quasar-hugo
 
 ### Installation
 
