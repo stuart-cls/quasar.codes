@@ -1,4 +1,26 @@
 [[article]]
+  author = "R. Brunetto, et al."
+  title = "Characterizing irradiated surfaces using IR spectroscopy"
+  journal = "Icarus"
+  volume = "345"
+  number = ""
+  pages = "113722"
+  year = 2020
+  doi = "10.1016/j.icarus.2020.113722"
+
+
+[[article]]
+  author = "M. Kreuzer, et al."
+  title = "Lipids status and copper in a single rat astrocyte model for amyotrophic lateral sclerosis: correlative synchrotron‐based X‐ray and infrared imaging"
+  journal = "Journal of Biophotonics"
+  volume = ""
+  number = ""
+  pages = ""
+  year = 2020
+  doi = "10.1002/jbio.202000069"
+
+
+[[article]]
   author = "M. E. Boi, et al."
   title = "Mineralogy and Zn Chemical Speciation in a Soil-Plant System from a Metal-Extreme Environment: A Study on Helichrysum microphyllum subsp. tyrrhenicum (Campo Pisano Mine, SW Sardinia, Italy)"
   journal = "Minerals"
@@ -7,6 +29,17 @@
   pages = "1-24"
   year = 2020
   doi = "10.3390/min10030259"
+
+
+[[article]]
+  author = "I. van Dijk, et al."
+  title = "Chemical Heterogeneity of Mg, Mn, Na, S, and Sr in Benthic Foraminiferal Calcite"
+  journal = "Frontiers in Earth Science"
+  volume = "7"
+  number = ""
+  pages = "Art. No. 281"
+  year = 2019
+  doi = "10.3389/feart.2019.00281"
 
 
 [[article]]
