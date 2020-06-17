@@ -47,24 +47,24 @@
       "timestamp": 1592330922057,
       "version": "0.5.4"
     },
-    "quasar-0.8.0-py_0.tar.bz2": {
+    "quasar-0.9.0-py_0.tar.bz2": {
       "build": "py_0",
       "build_number": 0,
       "depends": [
-        "orange-spectroscopy >=0.5.2",
-        "orange3 >=3.25.0",
+        "orange-spectroscopy >=0.5.4",
+        "orange3 >=3.26.0",
         "python"
       ],
       "license": "GPL-3",
       "license_family": "GPL",
-      "md5": "949530ab8ce14b754d0a84ed8b829dc4",
+      "md5": "5986e2f6c9441e5031b31568b3cfc1d0",
       "name": "quasar",
       "noarch": "python",
-      "sha256": "9eea78a8b392b458d2ae7862fd3d0596f5bb8302d371a953929660b5d5555c87",
-      "size": 85589,
+      "sha256": "e2638f2f19604c1993e9d6356551ed5583220491433f5fc164d8ca37617ce509",
+      "size": 85796,
       "subdir": "noarch",
-      "timestamp": 1587983168969,
-      "version": "0.8.0"
+      "timestamp": 1592396449407,
+      "version": "0.9.0"
     }
   },
   "packages.conda": {},
