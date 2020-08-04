@@ -89,8 +89,8 @@
       "summary": "Orange-Spectroscopy",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1592330922,
-      "version": "0.5.4"
+      "timestamp": 1596538265,
+      "version": "0.5.5"
     },
     "quasar": {
       "activate.d": false,
@@ -121,6 +121,36 @@
       "text_prefix": true,
       "timestamp": 1592396449,
       "version": "0.9.0"
+    },
+    "renishawwire": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/alchem0x2A/py-wdf-reader",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": "../",
+      "source_url": null,
+      "subdirs": [
+        "noarch"
+      ],
+      "summary": "Reading wdf Raman spectroscopy file from Renishaw WiRE",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1596537072,
+      "version": "0.1.8"
     }
   },
   "subdirs": [
