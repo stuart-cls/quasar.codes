@@ -1,4 +1,34 @@
 [[article]]
+  author = "I. Zorin, et al."
+  title = "Correlative infrared optical coherence tomography and hyperspectral chemical imaging"
+  journal = "arXiv | https://arxiv.org/abs/2006.03275"
+  volume = ""
+  number = ""
+  pages = "1-12"
+  year = 2020
+  doi = ""
+  
+[[article]]
+  author = "C. Troein, et al."
+  title = "OCTAVVS: A Graphical Toolbox for High-Throughput Preprocessing and Analysis of Vibrational Spectroscopy Imaging Data"
+  journal = "Methods Protoc."
+  volume = "3"
+  number = "34"
+  pages = "1-15"
+  year = 2020
+  doi = "10.3390/mps3020034"
+  
+[[article]]
+  author = "S. Dzurendova, et al."
+  title = "Microcultivation and FTIR spectroscopy-based screening revealed a nutrient-induced co-production of high-value metabolites in oleaginous Mucoromycota fungi"
+  journal = "PLOS ONE"
+  volume = "TBB"
+  number = "TBD"
+  pages = "1-34"
+  year = 2020
+  doi = "10.1371/journal.pone.0234870"
+  
+[[article]]
   author = "R. Brunetto, et al."
   title = "Characterizing irradiated surfaces using IR spectroscopy"
   journal = "Icarus"
