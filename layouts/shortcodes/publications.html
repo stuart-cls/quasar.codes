@@ -1,3 +1,10 @@
+In total, <b>{{ len $.Site.Data.publications.article }}</b> citations.
+
+{{ range $year := slice 2020 2019 2018 2017 }}
+<h3>{{$year}}</h3>
 {{ range $.Site.Data.publications.article }}
+{{ if eq .year $year }}
 <p>{{.author}}, <a href="https://doi.org/{{.doi}}"><em>{{.title}}</em></a>, {{.journal}} {{.year}}</p>
+{{ end }}
+{{ end }}
 {{ end }}
