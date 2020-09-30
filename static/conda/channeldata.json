@@ -59,8 +59,8 @@
       "summary": null,
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1554396395,
-      "version": "1.2.0"
+      "timestamp": 1601334197,
+      "version": "1.2.1"
     },
     "orange-spectroscopy": {
       "activate.d": false,

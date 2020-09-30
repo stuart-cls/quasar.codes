@@ -66,6 +66,57 @@
       "subdir": "linux-64",
       "timestamp": 1554395199973,
       "version": "1.2.0"
+    },
+    "opusfc-1.2.1-py36h035aef0_0.tar.bz2": {
+      "build": "py36h035aef0_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=9.3.0",
+        "numpy",
+        "python >=3.6,<3.7.0a0",
+        "python_abi 3.6.* *_cp36m"
+      ],
+      "md5": "4453a2d5971ba1272b07165a6f2b5ee1",
+      "name": "opusfc",
+      "sha256": "44a92c95a144d976007c869f36d3391694e1469414d744bad92fb3716bc439e6",
+      "size": 173791,
+      "subdir": "linux-64",
+      "timestamp": 1601333808015,
+      "version": "1.2.1"
+    },
+    "opusfc-1.2.1-py37h035aef0_0.tar.bz2": {
+      "build": "py37h035aef0_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=9.3.0",
+        "numpy",
+        "python >=3.7,<3.8.0a0",
+        "python_abi 3.7.* *_cp37m"
+      ],
+      "md5": "dcbd11f19eebced32c3805d1c79039ad",
+      "name": "opusfc",
+      "sha256": "1250561853ff93ab826e8b5b6880b9f8fddf8fccc076b2b1acae8c00326934a6",
+      "size": 174638,
+      "subdir": "linux-64",
+      "timestamp": 1601334197282,
+      "version": "1.2.1"
+    },
+    "opusfc-1.2.1-py38hb3ffb1f_0.tar.bz2": {
+      "build": "py38hb3ffb1f_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=9.3.0",
+        "numpy",
+        "python >=3.8,<3.9.0a0",
+        "python_abi 3.8.* *_cp38"
+      ],
+      "md5": "2a10315feb3a7c562dcb3565c1b8f803",
+      "name": "opusfc",
+      "sha256": "a82ddcef6325bde6a04c11ba5609ae7f0d95ef2143592280f384bc99d5603860",
+      "size": 185824,
+      "subdir": "linux-64",
+      "timestamp": 1601333480965,
+      "version": "1.2.1"
     }
   },
   "packages.conda": {},
