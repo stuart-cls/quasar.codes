@@ -20,7 +20,7 @@ Januray 13-15, 2021_
 
 ## Past
 
-__[Oxford, UK]()__  
+__[Oxford, UK](https://twitter.com/DiamondLightSou/status/1281636643137560576)__  
 _July 7 and 10, 2020   
 Online workshop organized by the Diamond Synchrotron   
 Number of participants: ~30_
