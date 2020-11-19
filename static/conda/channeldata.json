@@ -89,8 +89,8 @@
       "summary": "Orange-Spectroscopy",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1596538265,
-      "version": "0.5.5"
+      "timestamp": 1605773138,
+      "version": "0.5.6"
     },
     "quasar": {
       "activate.d": false,
