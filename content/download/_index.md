@@ -7,30 +7,22 @@ listing = true
 Windows
 =======
 
-[Quasar-0.9.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-0.9.0-Miniconda-x86_64.exe) - an
+[Quasar-1.0.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-1.0.0-Miniconda-x86_64.exe) - an
 installer that can be used without administrative privileges (64 bit).
 
-The package includes python 3.7.7,
-Orange 3.26.0, Orange-Spectroscopy 0.5.4, numpy 1.16.6,
-scipy 1.2.1, scikit-learn 0.22.1.
+The package includes python 3.7.9,
+Orange 3.27.1, Orange-Spectroscopy 0.5.7, numpy 1.19.2,
+scipy 1.5.2, scikit-learn 0.23.2.
 
 macOS
 =====
 
-[Quasar-0.9.0.dmg](https://download.biolab.si/download/files/quasar/Quasar-0.9.0.dmg) - a universal
+[Quasar-1.0.0.dmg](https://download.biolab.si/download/files/quasar/Quasar-1.0.0-Python3.7.6.dmg) - a universal
 bundle; copy it into your Applications folder.
 
----
-
-**macOS Big Sur users**: the current package needs a workaround. After moving Quasar into "Applications", run the following command in the terminal:
-
-<p style="max-width: 50rem;">/Applications/Quasar.app/Contents/MacOS/pip install pyqt5==5.12.2</p>
-
----
-
 The package includes python 3.7.6,
-Orange 3.26.0, Orange-Spectroscopy 0.5.4, numpy 1.16.6,
-scipy 1.2.3, scikit-learn 0.22.2.
+Orange 3.27.1, Orange-Spectroscopy 0.5.7, numpy 1.19.4,
+scipy 1.5.4, scikit-learn 0.23.2.
 
 
 Other platforms
