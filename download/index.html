@@ -69,9 +69,12 @@
     </div>
     <div class="dtc v-mid tr pa3">
         <a class="f6 fw4 hover-white no-underline white-80 dn dib-l pv2 ph3" href="/#features">Features</a>
-        <a class="f6 fw4 hover-white no-underline white-80 dib pv2 ph3" href="/screenshots">Screenshots</a>
-        <a class="f6 fw4 hover-white no-underline white-80 dib pv2 ph3" href="/docs">Docs</a>
-        <a class="f6 fw4 hover-white no-underline white-80 dn dib-ns ml2 pv2 ph3 ba br2" href="/download">Download</a>
+        <a class="f6 fw4 hover-white no-underline white-80 dib pv2 ph3" href="/screenshots/">Screenshots</a>
+        <a class="f6 fw4 hover-white no-underline white-80 dib pv2 ph3" href="/publications/">Publications</a>
+        <a class="f6 fw4 hover-white no-underline white-80 dib pv2 ph3" href="/docs/">Docs</a>
+        <a class="f6 fw4 hover-white no-underline white-80 dn dib-ns ml2 pv2 ph3 ba br2" href="/download/">Download</a>
+        <a class="f6 fw4 hover-white no-underline white-80 dib pv2 ph3" href="/events/">Events</a>
+        <a class="f6 fw4 hover-white no-underline white-80 dib pv2 ph3" href="/contact/">Contact</a>
     </div>
 </nav>
             </div>
@@ -92,21 +95,21 @@
 
 <h1 id="windows">Windows</h1>
 
-<p><a href="https://download.biolab.si/download/files/quasar/Quasar-0.3.2-Miniconda-x86_64.exe">Quasar-0.3.2-Miniconda-x86_64.exe</a> - an
+<p><a href="https://download.biolab.si/download/files/quasar/Quasar-1.0.0-Miniconda-x86_64.exe">Quasar-1.0.0-Miniconda-x86_64.exe</a> - an
 installer that can be used without administrative privileges (64 bit).</p>
 
-<p>The Windows Quasar 0.3.2 package includes python 3.6.8,
-Orange 3.20.1, Orange-Spectroscopy 0.4.4, numpy 1.15.4,
-scipy 1.1.0, scikit-learn 0.20.3.</p>
+<p>The package includes python 3.7.9,
+Orange 3.27.1, Orange-Spectroscopy 0.5.7, numpy 1.19.2,
+scipy 1.5.2, scikit-learn 0.23.2.</p>
 
 <h1 id="macos">macOS</h1>
 
-<p><a href="https://download.biolab.si/download/files/quasar/Quasar-0.3.2.dmg">Quasar-0.3.2.dmg</a> - an universal
+<p><a href="https://download.biolab.si/download/files/quasar/Quasar-1.0.0-Python3.7.6.dmg">Quasar-1.0.0.dmg</a> - a universal
 bundle; copy it into your Applications folder.</p>
 
-<p>The macOS Quasar 0.3.2 package includes python 3.6.6,
-Orange 3.20.1, Orange-Spectroscopy 0.4.4, numpy 1.15.4,
-scipy 1.1.0, scikit-learn 0.20.3.</p>
+<p>The package includes python 3.7.6,
+Orange 3.27.1, Orange-Spectroscopy 0.5.7, numpy 1.19.4,
+scipy 1.5.4, scikit-learn 0.23.2.</p>
 
 <h1 id="other-platforms">Other platforms</h1>
 
@@ -119,14 +122,17 @@ There, install Quasar with pip:</p>
 <pre><code>pip install quasar
 </code></pre>
 
-<p>The above command will install all dependencies. Then, run Quasar with:</p>
+<p>The above command will install all dependencies except PyQt. Install it with</p>
+
+<pre><code>pip install PyQt5
+</code></pre>
+
+<p>Then, run Quasar with:</p>
 
 <pre><code>python -m quasar
 </code></pre>
 
-<p>This will install Orange &gt;= 3.20.1 and Orange-Spectroscopy &gt;= 0.4.4.</p>
-
-<p>To open Brucker files, also install opusFC (only available for some platforms):</p>
+<p>To open Bruker OPUS files, also install opusFC (only available for some platforms):</p>
 
 <pre><code>pip install opusFC
 </code></pre>
@@ -134,7 +140,7 @@ There, install Quasar with pip:</p>
 <h2 id="with-conda">With conda</h2>
 
 <p>If you are using python provided by Anaconda distribution, you are almost ready to go.
-And two new channels</p>
+Add two new channels:</p>
 
 <pre><code>conda config --append channels conda-forge
 conda config --append channels https://quasar.codes/conda/
@@ -145,10 +151,14 @@ conda config --append channels https://quasar.codes/conda/
 <pre><code>conda install quasar
 </code></pre>
 
-<p>To open Brucker files, also install opusFC (only available for some platforms):</p>
+<p>To open Bruker OPUS files, also install opusFC (only available for some platforms):</p>
 
 <pre><code>conda install opusFC
 </code></pre>
+
+<h1 id="version-archive">Version archive</h1>
+
+<p>If needed, you can download previous versions from our <a href="https://download.biolab.si/download/files/quasar/">download archive</a>.</p>
 
 
 
