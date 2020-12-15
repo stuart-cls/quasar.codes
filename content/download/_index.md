@@ -52,11 +52,18 @@ To open Bruker OPUS files, also install opusFC (only available for some platform
 With conda
 ----------
 
-If you are using python provided by Anaconda distribution, you are almost ready to go.
+If you are using python provided by the miniconda / Anaconda distribution, you are almost ready to go.
+
+As with pip, we highly recommend you create a separate environment for your Quasar installation.
+
 Add two new channels:
 
-    conda config --append channels conda-forge
-    conda config --append channels https://quasar.codes/conda/
+    conda config --add channels conda-forge
+    conda config --add channels https://quasar.codes/conda/
+
+and set the channel_priority recommended by [conda-forge](https://conda-forge.org/docs/user/tipsandtricks.html#how-to-fix-it):
+
+    conda config --set channel_priority strict
 
 and install the quasar package:
 
@@ -64,7 +71,7 @@ and install the quasar package:
 
 To open Bruker OPUS files, also install opusFC (only available for some platforms):
 
-    conda install opusFC
+    conda install opusfc
 
 Version archive
 ===============
