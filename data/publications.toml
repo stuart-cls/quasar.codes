@@ -1,4 +1,26 @@
 [[article]]
+  author = "M-N. de Noirfontaine et al."
+  title = "Amorphization of a proposed sorbent of strontium, brushite, CaHPO4•2H2O, studied by X-ray diffraction and Raman spectroscopy"
+  journal = "Journal of Nuclear Materials"
+  volume = "545"
+  number = ""
+  pages = "152751"
+  year = 2021
+  doi = "10.1016/j.jnucmat.2020.152751"
+
+  
+[[article]]
+  author = "I. B. Mihalic et al."
+  title = "Multivariate analysis of PIXE+XRF and PIXE spectral images"
+  journal = "Journal of Analytical Atomic Spectrometry"
+  volume = "36"
+  number = ""
+  pages = ""
+  year = 2021
+  doi = "10.1039/D0JA00529K"
+
+  
+[[article]]
   author = "S. M. Savassa et al."
   title = "Ag nanoparticles enhancing Phaseolus vulgaris seedling development: understanding nanoparticle migration and chemical transformation across the seed coat"
   journal = "Environ. Sci.: Nano"
@@ -7,6 +29,17 @@
   pages = "1-9"
   year = 2021
   doi = "10.1039/D0EN00959H"
+
+  
+[[article]]
+  author = "J. M. Cameron et al."
+  title = "Interrogation of IDH1 Status in Gliomas by Fourier Transform Infrared Spectroscopy"
+  journal = "Cancers"
+  volume = "12"
+  number = "3682"
+  pages = "1-22"
+  year = 2020
+  doi = "10.3390/cancers12123682"
 
   
 [[article]]
