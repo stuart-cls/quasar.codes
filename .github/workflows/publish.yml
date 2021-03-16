@@ -21,6 +21,7 @@ jobs:
 
       - name: Build conda index
         run: |
+          conda install conda-build
           cd static/conda
           conda index
           cd ../..
