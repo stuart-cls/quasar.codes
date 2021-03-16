@@ -18,6 +18,15 @@ jobs:
           sudo dpkg -i hugo*.deb
           rm -rf public 2> /dev/null
           rm *.deb
+
+      - name: Build conda index
+        run: |
+          cd static/conda
+          conda index
+          cd ../..
+
+      - name: Build page
+        run: |
           hugo
           echo 'quasar.codes' > public/CNAME
           touch public/.nojekyll
