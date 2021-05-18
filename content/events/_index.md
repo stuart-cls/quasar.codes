@@ -4,8 +4,7 @@ url = "/events/"
 listing = true
 +++
 
-Would you like to meet us?  
-Come to one of our live training events or participate online!
+Would you like to meet us? Come to one of our live training events or participate online!
 
 If you would like to be notified about upcoming events and training sessions sign up for our [newsletter](/contact/#newsletter) or register to one of the events below.
 
@@ -13,12 +12,17 @@ Would you like to have your own on-site workshop? [Contact us](/contact/#formspr
 
 ## Future
 
+__[Oxford, UK](https://www.diamond.ac.uk/Home/Events/2021/Advanced-Infrared-microspectroscopy-analysis-training---QUASAR-software.html)__  
+_March 23 and 25, 2021
+Online workshop organized by the Diamond Synchrotron   
+Number of participants: ~30_
+
+
+## Past
 
 __[Lund, Sweden](https://indico.linxs.lu.se/event/165/)__  
 _Live and online hybrid event organized by LINXS  
-Januray 13-15, 2021_
-
-## Past
+January 13-15, 2021_
 
 __[Saskatoon, Canada SK](https://midir.lightsource.ca/quasar-workshop-2020/)__  
 _October 15 and 16, 2020  
