@@ -1,4 +1,15 @@
 [[article]]
+  author = "E. Alvarez-Marimon et al."
+  title = "Synchrotron X‐ray Fluorescence and FTIR Signatures for Amyloid Fibrillary and Nonfibrillary Plaques"
+  journal = "ACS Chemical Neuroscience"
+  volume = "x"
+  number = "xx"
+  pages = "xxx"
+  year = 2021
+  doi = "10.1021/acschemneuro.1c00048"
+
+  
+[[article]]
   author = "N. J. Sylvain et al."
   title = "The effects of trifluoperazine on brain edema, aquaporin-4 expression and metabolic markers during the acute phase of stroke using photothrombotic mouse model"
   journal = "Biochimica et Biophysica Acta - Biomembranes"
@@ -7,6 +18,7 @@
   pages = "183573"
   year = 2021
   doi = "10.1016/j.bbamem.2021.183573"
+
 
 [[article]]
   author = "B. Guldiken et al."
@@ -17,6 +29,7 @@
   pages = ""
   year = 2021
   doi = "10.1007/s00217-021-03745-7"
+
 
 [[article]]
   author = "S. H. Kim et al."
