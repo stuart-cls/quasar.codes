@@ -7,23 +7,27 @@ listing = true
 Windows
 =======
 
-[Quasar-1.1.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-1.1.0-Miniconda-x86_64.exe) - an
+[Quasar-1.2.0-Miniconda-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-1.2.0-Miniconda-x86_64.exe) - an
 installer that can be used without administrative privileges (64 bit).
 
 The package includes python 3.8.8,
-Orange 3.28.0, Orange-Spectroscopy 0.5.8, numpy 1.19.5,
+Orange 3.29.3, Orange-Spectroscopy 0.6.0, numpy 1.19.5,
 scipy 1.5.3, scikit-learn 0.23.2.
 
 macOS
 =====
 
-[Quasar-1.1.0-Python3.8.8.dmg](https://download.biolab.si/download/files/quasar/Quasar-1.1.0-Python3.8.8.dmg) - a universal
+[Quasar-1.2.0-Python3.8.8.dmg](https://download.biolab.si/download/files/quasar/Quasar-1.2.0-Python3.8.8.dmg) - a universal
 bundle; copy it into your Applications folder.
 
 The package includes python 3.8.8,
-Orange 3.28.0, Orange-Spectroscopy 0.5.8, numpy 1.19.5,
+Orange 3.29.3, Orange-Spectroscopy 0.6.0,numpy 1.19.5,
 scipy 1.5.4, scikit-learn 0.23.2.
 
+Version archive
+===============
+
+If needed, you can download previous versions from our [download archive](https://download.biolab.si/download/files/quasar/).
 
 Other platforms
 ===============
@@ -73,7 +77,3 @@ To open Bruker OPUS files, also install opusFC (only available for some platform
 
     conda install opusfc
 
-Version archive
-===============
-
-If needed, you can download previous versions from our [download archive](https://download.biolab.si/download/files/quasar/).
