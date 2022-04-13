@@ -3,56 +3,69 @@
     "subdir": "linux-64"
   },
   "packages": {
-    "opusfc-1.2.1-py36h035aef0_0.tar.bz2": {
-      "build": "py36h035aef0_0",
+    "opusfc-1.2.5-py36h1515d6f_0.tar.bz2": {
+      "build": "py36h1515d6f_0",
       "build_number": 0,
       "depends": [
         "libgcc-ng >=9.3.0",
         "numpy",
-        "python >=3.6,<3.7.0a0",
-        "python_abi 3.6.* *_cp36m"
+        "python >=3.6,<3.7.0a0"
       ],
-      "md5": "4453a2d5971ba1272b07165a6f2b5ee1",
+      "md5": "91165e1f42110240be783343a1572276",
       "name": "opusfc",
-      "sha256": "44a92c95a144d976007c869f36d3391694e1469414d744bad92fb3716bc439e6",
-      "size": 173791,
+      "sha256": "a853b94df3aa5499d7013bdc93784e4ca5c9c6efe6b604cce41cc272b2166e9a",
+      "size": 176218,
       "subdir": "linux-64",
-      "timestamp": 1601333808015,
-      "version": "1.2.1"
+      "timestamp": 1636130394820,
+      "version": "1.2.5"
     },
-    "opusfc-1.2.1-py37h035aef0_0.tar.bz2": {
-      "build": "py37h035aef0_0",
+    "opusfc-1.2.5-py37h1515d6f_0.tar.bz2": {
+      "build": "py37h1515d6f_0",
       "build_number": 0,
       "depends": [
         "libgcc-ng >=9.3.0",
         "numpy",
-        "python >=3.7,<3.8.0a0",
-        "python_abi 3.7.* *_cp37m"
+        "python >=3.7,<3.8.0a0"
       ],
-      "md5": "dcbd11f19eebced32c3805d1c79039ad",
+      "md5": "ce816edd8ecb9983128b21d78c18fd66",
       "name": "opusfc",
-      "sha256": "1250561853ff93ab826e8b5b6880b9f8fddf8fccc076b2b1acae8c00326934a6",
-      "size": 174638,
+      "sha256": "8f0be9d63b9e3f55d657b91e5cacf81d130cbe6ea8e6993325520fef34d9c7bd",
+      "size": 176202,
       "subdir": "linux-64",
-      "timestamp": 1601334197282,
-      "version": "1.2.1"
+      "timestamp": 1636130322560,
+      "version": "1.2.5"
     },
-    "opusfc-1.2.1-py38hb3ffb1f_0.tar.bz2": {
-      "build": "py38hb3ffb1f_0",
+    "opusfc-1.2.5-py38h353cf5f_0.tar.bz2": {
+      "build": "py38h353cf5f_0",
       "build_number": 0,
       "depends": [
         "libgcc-ng >=9.3.0",
         "numpy",
-        "python >=3.8,<3.9.0a0",
-        "python_abi 3.8.* *_cp38"
+        "python >=3.8,<3.9.0a0"
       ],
-      "md5": "2a10315feb3a7c562dcb3565c1b8f803",
+      "md5": "71e8a0e64e0b7de8552763a3f5433269",
       "name": "opusfc",
-      "sha256": "a82ddcef6325bde6a04c11ba5609ae7f0d95ef2143592280f384bc99d5603860",
-      "size": 185824,
+      "sha256": "94d75029a8d7d2494f0a748db87caf0948fbf94bd80f2fe7305156f344b6c60a",
+      "size": 188018,
       "subdir": "linux-64",
-      "timestamp": 1601333480965,
-      "version": "1.2.1"
+      "timestamp": 1636130447304,
+      "version": "1.2.5"
+    },
+    "opusfc-1.2.5-py39h8986c40_0.tar.bz2": {
+      "build": "py39h8986c40_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=9.3.0",
+        "numpy",
+        "python >=3.9,<3.10.0a0"
+      ],
+      "md5": "65a39720c06f841b0c034a451f19bebf",
+      "name": "opusfc",
+      "sha256": "5cd1abfb19dd0df6b716134bf579abb6570e64a38cac855e5e9a7984869a5ac7",
+      "size": 186342,
+      "subdir": "linux-64",
+      "timestamp": 1636130261098,
+      "version": "1.2.5"
     }
   },
   "packages.conda": {},

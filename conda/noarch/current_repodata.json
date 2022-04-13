@@ -21,15 +21,20 @@
       "timestamp": 1556805431401,
       "version": "0.0.3"
     },
-    "orange-spectroscopy-0.5.7-py_0.tar.bz2": {
+    "orange-spectroscopy-0.6.4-py_0.tar.bz2": {
       "build": "py_0",
       "build_number": 0,
       "depends": [
         "anyqt >=0.0.6",
+        "bottleneck",
         "colorcet",
         "extranormal3 >=0.0.3",
         "h5py",
-        "orange3 >=3.25",
+        "lmfit >=1.0.2",
+        "orange-canvas-core >=0.1.20",
+        "orange-widget-base >=4.14.1",
+        "orange3 >=3.28",
+        "pebble",
         "pillow",
         "pyqtgraph >=0.10.0",
         "python",
@@ -40,33 +45,33 @@
       ],
       "license": "GPL-3",
       "license_family": "GPL",
-      "md5": "440221200b8de8538ef7d8c989623652",
+      "md5": "7e6eca3c1e7a852d71afe305df1b3097",
       "name": "orange-spectroscopy",
       "noarch": "python",
-      "sha256": "72bcfffdf89d23fa4e418c3375cae5cc91d10ff3ccedb22d621985d78e7643dd",
-      "size": 3066937,
+      "sha256": "1f22e53c819479964a133f3d3983bbc6d3a1506937df708388e43527e51d9aa8",
+      "size": 3315435,
       "subdir": "noarch",
-      "timestamp": 1606829830626,
-      "version": "0.5.7"
+      "timestamp": 1644526611980,
+      "version": "0.6.4"
     },
-    "quasar-1.0.0-py_0.tar.bz2": {
+    "quasar-1.4.0-py_0.tar.bz2": {
       "build": "py_0",
       "build_number": 0,
       "depends": [
-        "orange-spectroscopy >=0.5.7",
-        "orange3 >=3.27.1",
+        "orange-spectroscopy >=0.6.3",
+        "orange3 >=3.31.1",
         "python"
       ],
       "license": "GPL-3",
       "license_family": "GPL",
-      "md5": "8c648988f47d0df9e371203e9c98e3b6",
+      "md5": "4bca0fbe0009ffbd8bc483b150a40134",
       "name": "quasar",
       "noarch": "python",
-      "sha256": "3ff304ccb26ac5a036bd4582c7921b76c0ca302c0f59012d53b2edde83a4ea6d",
-      "size": 85914,
+      "sha256": "ef95c537df01052befbc3515b02029c1a09b61587ddf20545219bef5e91fcc89",
+      "size": 86193,
       "subdir": "noarch",
-      "timestamp": 1606838656284,
-      "version": "1.0.0"
+      "timestamp": 1642066567863,
+      "version": "1.4.0"
     },
     "renishawwire-0.1.8-py_0.tar.bz2": {
       "build": "py_0",
